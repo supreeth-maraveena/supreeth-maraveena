@@ -1,6 +1,6 @@
 ## Hi, I'm Supreeth Maraveena 👋
 
-🎓 Data Science student @ VNR VJIET
+🎓 Data Science student @ VNR VJIET  
 📍 Hyderabad, India 
 
 ## About Me
