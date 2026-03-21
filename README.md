@@ -1,7 +1,7 @@
 ## Hi, I'm Supreeth Maraveena 👋
 
 🎓 Data Science student @ VNR VJIET  
-📍 Hyderabad, India 
+ 📍 Hyderabad, India 
 
 ## About Me
 I’m a Data Science student interested in solving real-world problems using data.  
