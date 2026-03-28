@@ -9,8 +9,8 @@ I enjoy working with programming, analyzing datasets, and building efficient sol
 - Working on data analysis and SQL  
 - Building projects using Python and R  
 - Recently worked on Data Cleaning using Jupyter Notebook 
-## 🛠️ Tech I use
-   Python • SQL • R • C  
+## 🛠️ Tech Stack
+   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ## 🌐 Socials
-- 📧 Email: supreethmaraveena@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/supreeth-maraveena
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/supreeth-maraveena)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supreethmaraveena@gmail.com)
