@@ -8,7 +8,7 @@ I enjoy working with programming, analyzing datasets, and building efficient sol
 ## 🚀 What I'm doing
 - Working on data analysis and SQL  
 - Building projects using Python and R  
-- Recently worked on Data Cleaning using Jupyter Notebook 
+- Recently worked on Exploratory Data Analysis on brand strategy
 ## 🛠️ Tech Stack
 
 **Languages**  
