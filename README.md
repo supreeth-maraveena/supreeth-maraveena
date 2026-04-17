@@ -28,6 +28,7 @@ I enjoy working with programming, analyzing datasets, and building efficient sol
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat&logo=diagramsdotnet&logoColor=white)
 
 ## 🌐 Socials
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/supreeth-maraveena/)
