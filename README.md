@@ -37,6 +37,4 @@ I enjoy working with programming, analyzing datasets, and building efficient sol
 
 ## 🧠 Coding Profiles
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/supreeth_2307)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/supreeth_2307)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/supreeth_2307)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=%23d16c06)](https://leetcode.com/supreeth_2307/)
