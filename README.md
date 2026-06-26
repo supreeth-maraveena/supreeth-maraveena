@@ -25,6 +25,9 @@ I enjoy working with programming, analyzing datasets, and building efficient sol
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)
 
+**Data Engineering**  
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)
+
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
