@@ -14,7 +14,7 @@ I enjoy working with programming, analyzing datasets, and building efficient sol
 ## 🛠️ Tech Stack
 
 **Languages**  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/%20-00599C?style=flat&logo=c&logoColor=white&logoSize=auto)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
