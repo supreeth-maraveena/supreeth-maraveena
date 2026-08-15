@@ -27,6 +27,7 @@ I enjoy working with programming, analyzing datasets, and building efficient sol
 
 **Data Engineering**  
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)
+![PySpark](https://img.shields.io/badge/PySpark-F06F29?style=flat&logo=apache-spark&logoColor=white&logoSize=auto)
 
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
